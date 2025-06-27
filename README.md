@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating solutions and sometimes bugs since 2004<br>
+✨ Creating solutions and sometimes bugs since 2023<br>
 📚 I'm currently mastering Python, SQL, Data Analysis (NumPy, Pandas) and Cybersecurity fundamentals<br>
 🎯 Goals: To become a top AI engineer, graduate with honors, and work on impactful tech projects by 2027<br>
 🎲 Fun fact: I combine my coding passion with boxing and swimming to keep both mind and body sharp
